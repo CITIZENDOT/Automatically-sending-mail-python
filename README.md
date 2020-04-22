@@ -7,6 +7,8 @@ First of all, Make sure that you installed smtplib module from pip3
 ```sh
 pip3 install smtplib
 ```
+Make sure you had turned off the Securityfor Sign in from Less Secure Apps for Gmail
+
 
 Place the file required to attach in the mail in this repository folder. (Just to avoid path complications)
 
